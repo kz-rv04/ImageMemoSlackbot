@@ -1,0 +1,2 @@
+# MySlackbot
+botに投げた画像からテキストを抽出して保存、取得するslackbot
